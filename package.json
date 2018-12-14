@@ -1,0 +1,20 @@
+{
+  "name": "ios-universal-links-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calintamas/ios-universal-links-test.git"
+  },
+  "author": "Calin Tamas <calinntamas@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calintamas/ios-universal-links-test/issues"
+  },
+  "homepage": "https://github.com/calintamas/ios-universal-links-test#readme"
+}
